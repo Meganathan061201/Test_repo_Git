@@ -1,0 +1,13 @@
+git init  
+git clone <Repo URL>
+git add .
+git add <file name >
+git commit -m "commit msg"
+git push origin <branch name>
+git pull origin <branch name>
+git status 
+git branch 
+git branch -r
+git branch -a
+git checkout -b <new branch name>
+git checkout <branch name>
