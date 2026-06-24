@@ -12,3 +12,6 @@ git branch -a
 git checkout -b <new branch name>
 git checkout <branch name>
 git fetch --all
+git reset --soft HEAD~1
+git reset --hard HEAD~1
+git revert <ID>
